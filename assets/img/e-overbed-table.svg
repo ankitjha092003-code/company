@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Overbed table">
+  <rect width="480" height="300" fill="#EAF6FF"/>
+  <rect x="30" y="40" width="28" height="8" rx="4" fill="#1677C8" opacity="0.25"/>
+  <rect x="40" y="30" width="8" height="28" rx="4" fill="#1677C8" opacity="0.25"/>
+  <circle cx="440" cy="52" r="18" fill="#20A464" opacity="0.12"/>
+  <ellipse cx="240" cy="264" rx="130" ry="11" fill="#0B2341" opacity="0.10"/>
+  <rect x="130" y="96" width="220" height="24" rx="12" fill="#FFFFFF" stroke="#1677C8" stroke-width="8"/>
+  <rect x="130" y="96" width="220" height="10" rx="5" fill="#1677C8" opacity="0.25"/>
+  <rect x="234" y="120" width="14" height="96" rx="7" fill="#1677C8"/>
+  <path d="M170 236 L241 216 L312 236" stroke="#1677C8" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="176" cy="244" r="11" fill="#0B2341"/>
+  <circle cx="306" cy="244" r="11" fill="#0B2341"/>
+  <rect x="196" y="66" width="56" height="26" rx="6" fill="#FFFFFF" stroke="#A8C6E0" stroke-width="4"/>
+  <rect x="270" y="74" width="30" height="18" rx="5" fill="#EAF6FF" stroke="#A8C6E0" stroke-width="4"/>
+</svg>

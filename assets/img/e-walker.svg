@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Walker">
+  <rect width="480" height="300" fill="#EAF6FF"/>
+  <rect x="30" y="40" width="28" height="8" rx="4" fill="#1677C8" opacity="0.25"/>
+  <rect x="40" y="30" width="8" height="28" rx="4" fill="#1677C8" opacity="0.25"/>
+  <circle cx="440" cy="52" r="18" fill="#20A464" opacity="0.12"/>
+  <ellipse cx="240" cy="262" rx="100" ry="10" fill="#0B2341" opacity="0.10"/>
+  <path d="M170 200 L170 120 Q170 108 182 108 L298 108 Q310 108 310 120 L310 200"
+        fill="none" stroke="#1677C8" stroke-width="14" stroke-linecap="round"/>
+  <rect x="150" y="100" width="180" height="18" rx="9" fill="#0B2341"/>
+  <circle cx="176" cy="214" r="15" fill="#0B2341"/>
+  <circle cx="176" cy="214" r="5" fill="#EAF6FF"/>
+  <circle cx="304" cy="214" r="15" fill="#0B2341"/>
+  <circle cx="304" cy="214" r="5" fill="#EAF6FF"/>
+  <rect x="236" y="126" width="8" height="60" rx="4" fill="#1677C8" opacity="0.45"/>
+</svg>

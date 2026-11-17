@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Patient care equipment">
+  <rect width="480" height="300" fill="#EAF6FF"/>
+  <rect x="30" y="40" width="28" height="8" rx="4" fill="#1677C8" opacity="0.25"/>
+  <rect x="40" y="30" width="8" height="28" rx="4" fill="#1677C8" opacity="0.25"/>
+  <circle cx="430" cy="52" r="18" fill="#20A464" opacity="0.12"/>
+  <ellipse cx="240" cy="264" rx="130" ry="10" fill="#0B2341" opacity="0.10"/>
+  <line x1="120" y1="240" x2="120" y2="86" stroke="#0B2341" stroke-width="7" stroke-linecap="round"/>
+  <path d="M120 86 h26" stroke="#0B2341" stroke-width="7" stroke-linecap="round"/>
+  <rect x="96" y="102" width="20" height="30" rx="6" fill="#FFFFFF" stroke="#A8C6E0" stroke-width="3"/>
+  <path d="M106 132 C106 168 128 178 136 198" stroke="#1677C8" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="120" cy="248" r="9" fill="#0B2341"/>
+  <rect x="196" y="128" width="128" height="92" rx="16" fill="#FFFFFF" stroke="#0B2341" stroke-width="6"/>
+  <rect x="196" y="128" width="128" height="30" rx="16" fill="#1677C8"/>
+  <rect x="196" y="146" width="128" height="12" fill="#1677C8"/>
+  <circle cx="226" cy="186" r="11" fill="none" stroke="#0B2341" stroke-width="5"/>
+  <rect x="252" y="176" width="48" height="20" rx="6" fill="#EAF6FF" stroke="#0B2341" stroke-width="5"/>
+  <circle cx="220" cy="234" r="9" fill="#0B2341"/>
+  <circle cx="300" cy="234" r="9" fill="#0B2341"/>
+</svg>
